@@ -1,6 +1,6 @@
 # Target-Independent-Twitter-Sentiment-Analysis
 
-This is a project I developed as a part of my CS 753/853: Topics / Information Retrieval Fall 2019 course at the University of New Hampshire
+This is a project I developed as a part of my CS853: Information Retrieval Fall 2019 course at the University of New Hampshire
 
 Requirements:
 Maven 3.6.0
